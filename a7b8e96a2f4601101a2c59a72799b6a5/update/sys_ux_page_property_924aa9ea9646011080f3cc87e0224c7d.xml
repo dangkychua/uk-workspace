@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="UK Agent Workspace">d64aa9ea3d4601107caf6138f920607d</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 07:57:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>924aa9ea9646011080f3cc87e0224c7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope>
+        <sys_update_name>sys_ux_page_property_924aa9ea9646011080f3cc87e0224c7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 07:57:52</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_83942_uk_agent_0.d64aa9ea3d4601107caf6138f920607d.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=924aa9ea9646011080f3cc87e0224c7d"/>
+</record_update>

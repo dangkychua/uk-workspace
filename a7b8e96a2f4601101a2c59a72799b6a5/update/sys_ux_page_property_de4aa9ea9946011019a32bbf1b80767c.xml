@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>listConfigId</name>
+        <page display_value="UK Agent Workspace">d64aa9ea3d4601107caf6138f920607d</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 07:57:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>de4aa9ea9946011019a32bbf1b80767c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>listConfigId</sys_name>
+        <sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope>
+        <sys_update_name>sys_ux_page_property_de4aa9ea9946011019a32bbf1b80767c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 07:58:03</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_83942_uk_agent_0.d64aa9ea3d4601107caf6138f920607d.root.listConfigId</unique_name>
+        <value>774ae9ea2f4601101a2c59a72799b679</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=de4aa9ea9946011019a32bbf1b80767c"/>
+</record_update>

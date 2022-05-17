@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="UK Agent Workspace_menu_config">774ae9ea2f4601101a2c59a72799b679</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-08 07:57:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>885ae9ea2f4601101a2c59a72799b6e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Interaction</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope>
+        <sys_update_name>sys_ux_list_category_885ae9ea2f4601101a2c59a72799b6e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-08 07:57:57</sys_updated_on>
+        <title>Interaction</title>
+    </sys_ux_list_category>
+</record_update>
