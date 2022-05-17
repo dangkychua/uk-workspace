@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_theme_style">
+    <m2m_theme_style action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <style display_value="UI16 Dashboard Visualization Compatibility">883625aa53213010e1f7ddeeff7b1299</style>
+        <sys_class_name>m2m_theme_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 05:12:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>9147600c2fa201101a2c59a72799b62d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope>
+        <sys_update_name>m2m_theme_style_9147600c2fa201101a2c59a72799b62d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 05:12:23</sys_updated_on>
+        <theme display_value="UK Agent Workspace Theme">25e275662f8601101a2c59a72799b6fe</theme>
+    </m2m_theme_style>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</application>
+        <file_path/>
+        <instance_id>aea75c46dbc6f30807072f17d49619e4</instance_id>
+        <instance_name>dev87643</instance_name>
+        <name>m2m_theme_style_9147600c2fa201101a2c59a72799b62d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_theme_style"><m2m_theme_style action="INSERT_OR_UPDATE"><applicability/><order>0</order><style display_value="UI16 Dashboard Visualization Compatibility">883625aa53213010e1f7ddeeff7b1299</style><sys_class_name>m2m_theme_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-25 05:12:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>9147600c2fa201101a2c59a72799b62d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package><sys_policy/><sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope><sys_update_name>m2m_theme_style_9147600c2fa201101a2c59a72799b62d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-25 05:12:23</sys_updated_on><theme display_value="UK Agent Workspace Theme">25e275662f8601101a2c59a72799b6fe</theme></m2m_theme_style></record_update>]]></payload>
+        <payload_hash>1230814476</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e3b8e96a2f4601101a2c59a72799b6a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-25 05:12:23</sys_created_on>
+        <sys_id>2c77244c2fa201101a2c59a72799b6fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fbf7d714f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-25 05:12:23</sys_updated_on>
+        <type>UX Theme Style</type>
+        <update_guid>6477244c4ca201101e41a6dabc1f18fb</update_guid>
+        <update_guid_history>6477244c4ca201101e41a6dabc1f18fb:1230814476</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5d58b3fc2f6a41101a2c59a72799b6c8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-28 04:20:28</sys_created_on>
+        <sys_db_object display_value="" name="m2m_theme_style">m2m_theme_style</sys_db_object>
+        <sys_id>5816a0cdcb844d6ab9f417907272a2e9</sys_id>
+        <sys_metadata>9147600c2fa201101a2c59a72799b62d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope>
+        <sys_scope_delete display_value="">9f23f0bd2479496082952f551e5a4400</sys_scope_delete>
+        <sys_update_name>m2m_theme_style_9147600c2fa201101a2c59a72799b62d</sys_update_name>
+        <sys_update_version display_value="m2m_theme_style_9147600c2fa201101a2c59a72799b62d">2c77244c2fa201101a2c59a72799b6fb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-28 04:20:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

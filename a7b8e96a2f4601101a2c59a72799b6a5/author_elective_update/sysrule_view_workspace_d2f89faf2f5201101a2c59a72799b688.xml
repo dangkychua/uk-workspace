@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view_workspace">
+    <sysrule_view_workspace action="DELETE">
+        <active>true</active>
+        <condition table="interaction">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <default_tab_focus>Details</default_tab_focus>
+        <default_tab_order>true</default_tab_order>
+        <description/>
+        <disable_section_collapse>false</disable_section_collapse>
+        <experience_restricted>true</experience_restricted>
+        <hide_details>false</hide_details>
+        <hide_journal_input_fields>false</hide_journal_input_fields>
+        <hide_section_menu>false</hide_section_menu>
+        <name>uk_agent_ws__interaction</name>
+        <order>100</order>
+        <roles>x_83942_uk_agent_0.uk_agent</roles>
+        <sys_class_name>sysrule_view_workspace</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 04:53:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d2f89faf2f5201101a2c59a72799b688</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>uk_agent_ws__interaction</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope>
+        <sys_update_name>sysrule_view_workspace_d2f89faf2f5201101a2c59a72799b688</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 05:02:34</sys_updated_on>
+        <table>interaction</table>
+        <tabs_order>[{"label":"Details","value":"Details"}]</tabs_order>
+        <view display_value="uk_agent_workspace" name="uk_agent_workspace">aeb4de5b2f9201101a2c59a72799b61d</view>
+        <workspace/>
+    </sysrule_view_workspace>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</application>
+        <file_path/>
+        <instance_id>aea75c46dbc6f30807072f17d49619e4</instance_id>
+        <instance_name>dev87643</instance_name>
+        <name>sysrule_view_workspace_d2f89faf2f5201101a2c59a72799b688</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view_workspace"><sysrule_view_workspace action="INSERT_OR_UPDATE"><active>true</active><condition table="interaction">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><default_tab_focus>Details</default_tab_focus><default_tab_order>true</default_tab_order><description/><disable_section_collapse>false</disable_section_collapse><experience_restricted>true</experience_restricted><hide_details>false</hide_details><hide_journal_input_fields>false</hide_journal_input_fields><hide_section_menu>false</hide_section_menu><name>uk_agent_ws__interaction</name><order>100</order><roles>x_83942_uk_agent_0.uk_agent</roles><sys_class_name>sysrule_view_workspace</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-24 04:53:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d2f89faf2f5201101a2c59a72799b688</sys_id><sys_mod_count>1</sys_mod_count><sys_name>uk_agent_ws__interaction</sys_name><sys_overrides/><sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package><sys_policy/><sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope><sys_update_name>sysrule_view_workspace_d2f89faf2f5201101a2c59a72799b688</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-24 05:02:34</sys_updated_on><table>interaction</table><tabs_order>[{"label":"Details","value":"Details"}]</tabs_order><view display_value="uk_agent_workspace" name="uk_agent_workspace">aeb4de5b2f9201101a2c59a72799b61d</view><workspace/></sysrule_view_workspace></record_update>]]></payload>
+        <payload_hash>1835619029</payload_hash>
+        <record_name>uk_agent_ws__interaction</record_name>
+        <reverted_from/>
+        <source>e3b8e96a2f4601101a2c59a72799b6a7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 05:02:34</sys_created_on>
+        <sys_id>db9b5f632f9201101a2c59a72799b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fba4e19ef0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 05:02:34</sys_updated_on>
+        <type>Workspace View Rule</type>
+        <update_guid>179b5f63b3920110aab6c38f74d2dbbb</update_guid>
+        <update_guid_history>179b5f63b3920110aab6c38f74d2dbbb:1835619029,7f79dfaf78520110609b423ec212d85b:-443715529</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-24 05:03:16</sys_created_on>
+        <sys_db_object display_value="" name="sysrule_view_workspace">sysrule_view_workspace</sys_db_object>
+        <sys_id>011dbbe3d0014be280fb2e8e401e9269</sys_id>
+        <sys_metadata>d2f89faf2f5201101a2c59a72799b688</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>uk_agent_ws__interaction</sys_name>
+        <sys_package display_value="UK Agent Workspace" source="x_83942_uk_agent_0">a7b8e96a2f4601101a2c59a72799b6a5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UK Agent Workspace">a7b8e96a2f4601101a2c59a72799b6a5</sys_scope>
+        <sys_scope_delete display_value="">9f23f0bd2479496082952f551e5a4400</sys_scope_delete>
+        <sys_update_name>sysrule_view_workspace_d2f89faf2f5201101a2c59a72799b688</sys_update_name>
+        <sys_update_version display_value="sysrule_view_workspace_d2f89faf2f5201101a2c59a72799b688">db9b5f632f9201101a2c59a72799b6bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-24 05:03:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
